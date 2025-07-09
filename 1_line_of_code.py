@@ -9,3 +9,5 @@ print(x)
 # we use and operator to print dfrnt functions
 print(2>5 + 5<2)
 print(8/2)
+
+# Footer: End of script
