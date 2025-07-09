@@ -1,4 +1,4 @@
-# 🐍 Python Practice Work
+#  Python Work
 
 This repository contains my hands-on practice files while learning Python.  
 Each file covers a core concept in Python, ideal for beginners and quick revision.
@@ -45,6 +45,10 @@ Each `.py` file focuses on one key topic:
 | `16_condition_logic.py`    | More on logic-based conditions        |
 
 ---
+## 📓 Google Colab Notebook
+
+[Click to view the Colab notebook](https://colab.research.google.com/drive/10XIoWrCcik_xtxQX2LQzBLElNeZn88z7)
+
 
 ## 🚀 Purpose
 
